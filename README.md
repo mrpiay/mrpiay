@@ -4,7 +4,7 @@
 
 💻 Currently: **Head of Computer Science & AI Champion** at O Castro British School. I also tutor and mentor Computer Engineering students, helping them grow academically and professionally.
 
-⚡ Experience ranges from **global solar energy projects** to **creative coding solutions**, **educational tools** and **quality assurance (ISO 9001)**.
+⚡ Experience ranges from **global solar energy projects** to **creative coding solutions**, **educational tools** and **quality assurance**.
 
 🏆 Awards:
 
