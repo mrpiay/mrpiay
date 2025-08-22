@@ -1,4 +1,4 @@
-👋 Hi, I'm Javier Piay Pombo — a lifelong learner and enthusiastic tinkerer with a passion for **science, technology and education**.
+👋 Hi, I'm **Javier Piay Pombo** — a lifelong learner and enthusiastic tinkerer with a passion for **science, technology and education**.
 
 🎓 Background in **Physics (Electronics)** with Master’s degrees in **Renewable Energy** and **Computational & Mathematical Engineering**.
 
