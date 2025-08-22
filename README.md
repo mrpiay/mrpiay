@@ -1,4 +1,4 @@
-👋 Hi, I'm **Javier Piay Pombo** — a lifelong learner and enthusiastic tinkerer with a passion for **science, technology and education**.
+👋 Hi, I'm **Javier Piay Pombo**, a lifelong learner and enthusiastic tinkerer with a passion for **science, technology and education**.
 
 🎓 Background in **Physics (Electronics)** with Master’s degrees in **Renewable Energy** and **Computational & Mathematical Engineering**.
 
@@ -8,7 +8,7 @@
 
 🏆 Awards:
 
-* Professional Excellence Award – Official Association of Physicists
-* 3rd Prize – Ultimate Arduino Global Challenge (SANX-I microcomputer)
+* Professional Excellence Award, Official Association of Physicists
+* 3rd Prize, Ultimate Arduino Global Challenge (SANX-I microcomputer)
 
 ✨ Motto: *“Learning made exciting.”* Always exploring new ways to teach, build and innovate.
