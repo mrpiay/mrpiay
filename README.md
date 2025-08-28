@@ -1,4 +1,4 @@
-Multidisciplinary professional at the intersection of solar energy, computer science and AI-driven solutions.
+Multidisciplinary professional at the intersection of solar energy and computer science.
 
 As a solar energy expert, I bring extensive experience in technology, business and project development, advancing both CSP and PV solutions through R&D, international partnerships and large-scale project delivery. I have led innovation, market expansion and technology transfer initiatives across Europe and the Middle East, successfully balancing technical leadership with commercial strategy.
 
