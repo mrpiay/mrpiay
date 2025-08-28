@@ -1,14 +1,5 @@
-👋 Hi, I'm **Javier Piay Pombo**, a lifelong learner and enthusiastic tinkerer with a passion for **science, technology and education**.
+Multidisciplinary professional at the intersection of solar energy, computer science and AI-driven solutions.
 
-🎓 Background in **Physics (Electronics)** with Master’s degrees in **Renewable Energy** and **Computational & Mathematical Engineering**.
+As a solar energy expert, I bring extensive experience in technology, business and project development, advancing both CSP and PV solutions through R&D, international partnerships and large-scale project delivery. I have led innovation, market expansion and technology transfer initiatives across Europe and the Middle East, successfully balancing technical leadership with commercial strategy.
 
-💻 Currently: **Head of Computer Science & AI Champion** at O Castro British School. I also tutor and mentor Computer Engineering students, helping them grow academically and professionally.
-
-⚡ Experience ranges from **global solar energy projects** to **creative coding solutions**, **educational tools** and **quality assurance**.
-
-🏆 Awards:
-
-* Professional Excellence Award, Official Association of Physicists
-* 3rd Prize, Ultimate Arduino Global Challenge (SANX-I microcomputer)
-
-✨ Motto: *“Learning made exciting.”* Always exploring new ways to teach, build and innovate.
+As a teacher and mentor, I serve as Head of Computer Science & AI Champion at O Castro British School, where I design engaging, future-ready learning experiences. Beyond the classroom, I coach and mentor university students, supporting them in tackling academic challenges, developing final projects and preparing for professional careers.
