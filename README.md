@@ -1,5 +1,24 @@
-Multidisciplinary professional at the intersection of solar energy and computer science.
+About Me:
+I am a multidisciplinary professional at the intersection of science, technology and education, with over 25 years of experience transforming challenges into opportunities for learning, innovation and growth.
 
-As a solar energy expert, I bring extensive experience in technology, business and project development, advancing both CSP and PV solutions through R&D, international partnerships and large-scale project delivery. I have led innovation, market expansion and technology transfer initiatives across Europe and the Middle East, successfully balancing technical leadership with commercial strategy.
+Sience:
+I bring abstract concepts to life through rigorous analysis and hands-on experimentation, whether in computing, physics, electronics or renewable energy systems.
 
-As a teacher and mentor, I serve as Head of Computer Science & AI Champion at O Castro British School, where I design engaging, future-ready learning experiences. Beyond the classroom, I coach and mentor university students, supporting them in tackling academic challenges, developing final projects and preparing for professional careers.
+Technology:
+I leverage AI, computational tools, physical computing and emerging EdTech to create interactive, accessible and forward-thinking solutions that empower learners and educators alike.
+
+Education:
+I guide teachers to become creators, helping them design, prototype and deploy learning tools that are pedagogically sound, adaptive and engaging, making learning not just effective, but truly exciting.
+
+Bridging Disciplines:
+Through my work, I bridge STEM disciplines, computational thinking and AI-driven innovation, enabling students to explore, discover, experiment and develop essential problem-solving skills.
+
+AI & Creative Coding:
+I am particularly passionate about integrating conversational AI and creative coding, helping educators transform ideas into real-time, impactful classroom experiences.
+
+Missions:
+Mission #1: to cultivate a future-focused education ecosystem, where science fuels understanding, technology amplifies potential and education inspires the next generation of informed, responsible and open-minded citizens.
+Mission #2: to help individuals and organizations leverage science, technology and education to solve challenges, create meaningful impact and turn bold ideas into reality.
+
+Motto:
+Learning made exciting and taken further.
