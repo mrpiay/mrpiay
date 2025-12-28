@@ -2,7 +2,7 @@
 
 I am a multidisciplinary professional at the intersection of **science, technology and education**, with over 25 years of experience transforming challenges into opportunities for learning, innovation and growth.
 
-### 🔬 Science
+### ⚛️ Science
 I bring abstract concepts to life through rigorous analysis and hands-on experimentation, whether in computing, physics, electronics or renewable energy systems.
 
 ### 💻 Technology
@@ -11,7 +11,7 @@ I leverage AI, computational tools, physical computing and emerging EdTech to cr
 ### 📚 Education
 I guide teachers to become creators, helping them design, prototype and deploy learning tools that are pedagogically sound, adaptive and engaging, making learning not just effective, but truly exciting.
 
-### 🌉 Bridging Disciplines
+### ✨ Bridging Disciplines
 Through my work, I bridge STEM disciplines, computational thinking and AI-driven innovation, enabling students to explore, discover, experiment and develop essential problem-solving skills.
 
 ### 🤖 AI & Creative Coding
