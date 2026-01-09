@@ -21,9 +21,9 @@ I am particularly passionate about integrating conversational AI and creative co
 
 ## 🎯 Missions
 
-**Mission #1:** cultivate a future-focused education ecosystem, where science fuels understanding, technology amplifies potential and education inspires the next generation of informed, responsible and open-minded citizens.
+To cultivate a future-focused education ecosystem, where science fuels understanding, technology amplifies potential and education inspires the next generation of informed, responsible and open-minded citizens.
 
-**Mission #2:** help individuals and organizations leverage science, technology and education to solve challenges, create meaningful impact and turn bold ideas into reality.
+To help individuals and organizations leverage science, technology and education to solve challenges, create meaningful impact and turn bold ideas into reality.
 
 ---
 
