@@ -17,16 +17,12 @@ Through my work, I bridge STEM disciplines, computational thinking and AI-driven
 ### 🤖 AI & Creative Coding
 I am particularly passionate about integrating conversational AI and creative coding, helping educators transform ideas into real-time, impactful classroom experiences.
 
----
-
-## 🎯 Missions
+### 🎯 Missions
 
 To cultivate a future-focused education ecosystem, where science fuels understanding, technology amplifies potential and education inspires the next generation of informed, responsible and open-minded citizens.
 
 To help individuals and organizations leverage science, technology and education to solve challenges, create meaningful impact and turn bold ideas into reality.
 
----
-
-## 💡 Motto
+### 💡 Motto
 
 > **Learning made exciting and taken further.**
