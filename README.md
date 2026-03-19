@@ -1,7 +1,5 @@
-My background is a bit unconventional. I've worked across science, technology, business and education because I've always been drawn to problems that sit at the intersection of different fields.
+My background is unconventional by design. Over 25+ years I've worked across science, technology, business and education — not by accident, but because the most interesting problems always sit at the intersection of fields. This has shaped how I think: I naturally look for the structure beneath complexity, and I'm drawn to turning something messy into something clear, useful and well-designed — whether that's a model, a system, a tool or simply a better explanation.
 
-Over time, this has shaped how I think. I naturally look for the structure beneath complexity and I enjoy turning something messy into something clear, useful and well-designed, whether that's a model, a system, a tool or simply a better explanation.
+In practice, this means I operate seamlessly from concept through implementation — architecting software, leading R&D, building products, expanding into international markets and advising organizations on complex technological change. I bring a systems-level perspective that combines technical depth with strategic insight, and I've applied it across roles that most CVs wouldn't put in the same document.
 
-I'm particularly interested in how AI can transform the way people learn, not just by automating tasks, but by making knowledge more adaptive, personalized and meaningful.
-
-What motivates me is simple: making complex things understandable, turning ideas into things that actually work and leaving a meaningful impact along the way.
+What ties it all together is a genuine interest in how AI can transform the way people learn — not just by automating tasks, but by making knowledge more adaptive, personalized and meaningful. Whether I'm guiding AI initiatives, leading cross-functional teams or designing learning environments, the motivation is the same: make complex things understandable, turn ideas into things that actually work and leave a meaningful impact along the way.
