@@ -1,14 +1,10 @@
 # Javier Piay
 **Science · Technology · Education**
 
-javierpiay@yahoo.es
-
-[linkedin.com/in/javierpiay](https://linkedin.com/in/javierpiay)
-
-[github.com/mrpiay](https://github.com/mrpiay)
-
-[(https://www.youtube.com/@mrpiay](https://www.youtube.com/@mrpiay)
-
+javierpiay@yahoo.es\
+[linkedin.com/in/javierpiay](https://linkedin.com/in/javierpiay)\
+[github.com/mrpiay](https://github.com/mrpiay)\
+[youtube.com/@mrpiay](https://www.youtube.com/@mrpiay)\
 English & Spanish
 
 ---
@@ -19,7 +15,7 @@ My background is unconventional by design. Over 25+ years I've worked across sci
 
 In practice, this means I operate seamlessly from concept through implementation — architecting software, leading R&D, building products, expanding into international markets and advising organizations on complex technological change. I bring a systems-level perspective that combines technical depth with strategic insight, and I've applied it across roles that most CVs wouldn't put in the same document.
 
-What ties it all together is a genuine interest in how AI can transform the way people learn — not just by automating tasks, but by making knowledge more adaptive, personalized and meaningful. Whether I'm guiding AI initiatives, leading cross-functional teams or designing learning environments, the motivation is the same: make complex things understandable, turn ideas into things that actually work and leave a meaningful impact along the way.
+What ties it all together is AI — specifically, what becomes possible when you combine deep technical understanding of how these systems work with real experience applying them in education, research and product development. I've designed AI-enhanced learning environments, led institutional AI strategy, built MCP agentic AI systems with modern technologies and written extensively on where the technology is heading and what it means. I don't just follow AI — I work with it, build with it and think seriously about it.
 
 ---
 
@@ -166,6 +162,8 @@ What ties it all together is a genuine interest in how AI can transform the way 
 | [TheComputingElevator](https://github.com/mrpiay/TheComputingElevator) | Visual journey through computer architecture and low-level programming |
 | [CosmicOdemeter](https://github.com/mrpiay/CosmicOdemeter) | How far have you travelled through space since birth? Animated cosmic cockpit |
 | [CiscoTroubleshooting](https://github.com/mrpiay/CiscoTroubleshooting) | Introduction to diagnosis and troubleshooting in Cisco networks |
+| [NetCLI](https://github.com/mrpiay/NetCLI) | Comprehensive, hands-on learning resource for network analysis and security using command-line tools |
+| [NetCLI](https://github.com/mrpiay/NetCLI) | Comprehensive, hands-on learning resource for network analysis and security using command-line tools |
 | [TerMinAll](https://github.com/mrpiay/TerMinAll) | Command line text processing tutorial |
 
 ---
