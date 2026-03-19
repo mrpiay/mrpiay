@@ -15,7 +15,7 @@ My background is unconventional by design. Over 25+ years I've worked across sci
 
 In practice, this means I operate seamlessly from concept through implementation — architecting software, leading R&D, building products, expanding into international markets and advising organizations on complex technological change. I bring a systems-level perspective that combines technical depth with strategic insight, and I've applied it across roles that most CVs wouldn't put in the same document.
 
-What ties it all together is AI — specifically, what becomes possible when you combine deep technical understanding of how these systems work with real experience applying them in education, research and product development. I've designed AI-enhanced learning environments, led institutional AI strategy, built MCP agentic AI systems and written extensively on where the technology is heading and what it means. I don't just follow AI — I work with it, build with it and think seriously about it.
+What ties it all together is AI — specifically, what becomes possible when you combine deep technical understanding of how these systems work with real experience applying them in education, research and product development. I've designed AI-enhanced learning environments, led institutional AI strategy, built MCP agentic AI systems with modern technologies and written extensively on where the technology is heading and what it means. I don't just follow AI — I work with it, build with it and think seriously about it.
 
 ---
 
@@ -170,29 +170,29 @@ What ties it all together is AI — specifically, what becomes possible when you
 
 ## Licences & Certifications
 
-**Microsoft**
-- AI for Educators
-
-**Google**
-- Generative AI for Educators with Gemini
-- Introduction to Generative AI
-- Introduction to Large Language Models
-- Introduction to Responsible AI
-- Generative AI Fundamentals
-- Responsible AI: Applying AI Principles with Google Cloud
-
-**Hugging Face**
-- AI Agents Fundamentals
-
-**IBM**
-- Cybersecurity Fundamentals · Introduction to Quantum Computing · Build Your Own Chatbot
-- Artificial Intelligence Fundamentals · AI Foundations for Educators · Blockchain Essentials
-- Blockchain Frameworks & Platforms · Blockchain Introduction
-- Web Development Fundamentals: HTML, CSS, JavaScript · Quantum Computing
-- Information Technology Fundamentals · Explore Emerging Tech
-
-**INTEF – Spanish Ministry of Education**
-- Una Inteligencia Artificial para aprender
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| AI for Educators | Microsoft | Sep 2025 |
+| Generative AI for Educators with Gemini | Google | Sep 2025 |
+| AI Agents Fundamentals | Hugging Face | Feb 2025 |
+| Cybersecurity Fundamentals | IBM | Jul 2024 |
+| Introduction to Quantum Computing | IBM | Nov 2023 |
+| Build Your Own Chatbot | IBM | Nov 2023 |
+| Artificial Intelligence Fundamentals | IBM | Nov 2023 |
+| Una Inteligencia Artificial para aprender | INTEF | Nov 2023 |
+| Introduction to Generative AI | Google | Nov 2023 |
+| Introduction to Large Language Models | Google | Nov 2023 |
+| Introduction to Responsible AI | Google | Nov 2023 |
+| Generative AI Fundamentals | Google | Nov 2023 |
+| Responsible AI: Applying AI Principles with Google Cloud | Google | Nov 2023 |
+| Artificial Intelligence Foundations for Educators | IBM | Aug 2023 |
+| Blockchain – Essentials | IBM | Aug 2023 |
+| Blockchain – Frameworks & Platforms | IBM | Aug 2023 |
+| Blockchain – Introduction | IBM | Aug 2023 |
+| Web Development Fundamentals: HTML, CSS, JavaScript | IBM | Aug 2023 |
+| Quantum Computing | IBM | Aug 2023 |
+| Information Technology Fundamentals | IBM | Aug 2023 |
+| Explore Emerging Tech: AI, Blockchain, Cybersecurity, Cloud, Data & Analytics, IoT | IBM | Aug 2023 |
 
 ---
 
