@@ -226,7 +226,7 @@ What ties it all together is AI — specifically, what becomes possible when you
 14. [Professional Age: The New Paradigm of Career Growth](https://www.linkedin.com/pulse/professional-age-new-paradigm-career-growth-javierpiay-z8bue)
 15. [Is AI Truly Unique? Debating the Need for Urgent Ethics and Governance in Youth-Focused Technologies](https://www.linkedin.com/pulse/ai-truly-unique-debating-need-urgent-ethics-governance-javier-piay-unjwf)
 
-> Full list of 49 articles available on [LinkedIn](https://linkedin.com/in/javierpiay)
+> Full list of articles available on [LinkedIn](https://linkedin.com/in/javierpiay)
 
 ---
 
