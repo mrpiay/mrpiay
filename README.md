@@ -163,7 +163,6 @@ What ties it all together is AI — specifically, what becomes possible when you
 | [CosmicOdemeter](https://github.com/mrpiay/CosmicOdemeter) | How far have you travelled through space since birth? Animated cosmic cockpit |
 | [CiscoTroubleshooting](https://github.com/mrpiay/CiscoTroubleshooting) | Introduction to diagnosis and troubleshooting in Cisco networks |
 | [NetCLI](https://github.com/mrpiay/NetCLI) | Comprehensive, hands-on learning resource for network analysis and security using command-line tools |
-| [NetCLI](https://github.com/mrpiay/NetCLI) | Comprehensive, hands-on learning resource for network analysis and security using command-line tools |
 | [TerMinAll](https://github.com/mrpiay/TerMinAll) | Command line text processing tutorial |
 
 ---
