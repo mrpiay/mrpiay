@@ -60,7 +60,7 @@ What ties it all together is AI — specifically, what becomes possible when you
 ---
 
 ### AI-Enhanced Tutor — Computer Software Engineering
-**Independent** · Remote · Oct 2021 – Jan 2026
+**Independent** · Remote · Oct 2021 – Present
 
 - Provided one-to-one tutoring leveraging AI tools to personalise learning pathways for university students
 - Supported complex coursework, exam preparation and final project development
@@ -68,7 +68,7 @@ What ties it all together is AI — specifically, what becomes possible when you
 ---
 
 ### Creator, Developer & Trainer — Programming, Physical Computing & STEM
-**Independent** · Jul 2017 – Sep 2022
+**Independent** · Jul 2017 – Present
 
 - Developed training materials, courses and workshops on STEM, digital electronics and physical computing
 
