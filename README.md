@@ -205,7 +205,7 @@ What ties it all together is AI — specifically, what becomes possible when you
 
 ## Published Articles (LinkedIn)
 
-49 articles on Artificial Intelligence, Science, Technology, Education, Philosophy & Society.
+Articles on Artificial Intelligence, Science, Technology, Education, Philosophy & Society.
 
 **Selected highlights:**
 
