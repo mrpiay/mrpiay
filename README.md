@@ -45,7 +45,7 @@ What ties it all together is AI — specifically, what becomes possible when you
 ### Head of Computer Science · AI Champion · Astronomy Club Instructor
 **O Castro British School** · Vigo, Spain · Sep 2022 – Nov 2025
 
-- Led the school's AI adoption strategy; appointed AI Champion — first of its kind in the institution
+- Led the school's AI adoption strategy; appointed AI Champion
 - Designed and delivered Computer Science curriculum aligned with UK standards (GCSE/A-Level equivalent)
 - Launched Astronomy Club and STEM outreach programmes
 
