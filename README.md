@@ -11,11 +11,16 @@ English & Spanish
 
 ## Professional Profile
 
-My background is unconventional by design. Over 25+ years I've worked across science, technology, business and education — not by accident, but because the most interesting problems always sit at the intersection of fields. This has shaped how I think: I naturally look for the structure beneath complexity, and I'm drawn to turning something messy into something clear, useful and well-designed — whether that's a model, a system, a tool or simply a better explanation.
+I work at the intersection of science, technology and education, combining engineering, product development and learning innovation across more than 25 years of international experience.
 
-In practice, this means I operate seamlessly from concept through implementation — architecting software, leading R&D, building products, expanding into international markets and advising organizations on complex technological change. I bring a systems-level perspective that combines technical depth with strategic insight, and I've applied it across roles that most CVs wouldn't put in the same document.
+My focus has always been turning complex ideas into practical systems, tools and learning experiences that are technically strong, strategically useful and genuinely human-centred.
 
-I also build. Ideas don't stay in slides for long — they end up as working tools, quick prototypes, open-source projects, small experiments that test whether something is actually useful. Making is how I think, and shipping fast is how I learn what's worth pursuing further.
+Over the years, I’ve worked across software architecture, R&D, AI-enhanced education, computational tools, scientific modelling and international technology projects. I enjoy moving from concept to implementation — designing systems, building prototypes, experimenting quickly and refining ideas through real-world use rather than theory alone.
 
-What ties it all together is AI — specifically, what becomes possible when you combine deep technical understanding of how these systems work with real experience applying them in education, research and product development. I've designed AI-enhanced learning environments, led institutional AI strategy, built MCP agentic AI systems and written extensively on where the technology is heading and what it means. I don't just follow AI — I work with it, build with it and think seriously about it.
+That builder mindset has shaped much of my work. I’ve developed educational simulators, AI agent systems, interactive learning environments, scientific and networking tools, and open-source projects spanning computing, mathematics, physics, AI and computational education.
 
+More recently, my work has focused heavily on generative AI and intelligent learning systems, including agentic architectures, MCP systems, AI tutoring, prompt engineering and the integration of AI into teaching, learning and institutional strategy.
+
+What ties everything together is systems thinking: understanding how technology, people and learning interact in practice. Whether working in renewable energy engineering, computational modelling or AI-driven education, I’ve consistently operated where complex technical systems meet human understanding.
+
+I’m especially interested in building tools and environments that make advanced technology more accessible, useful and meaningful for learners, developers and organisations navigating rapid technological change.
